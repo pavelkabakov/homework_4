@@ -19,8 +19,8 @@ int SummFunction(int number)
     {
         sum = sum + (number%10);
         number = number / 10;
-        Console.WriteLine($" number - {number}");
-        Console.WriteLine($" summ - {sum}");
+        // Console.WriteLine($" number - {number}");
+        // Console.WriteLine($" summ - {sum}");
     }
     return sum;
 }
