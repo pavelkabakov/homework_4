@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E7GHRHCXs/tC3C3CMVAIuIrHuwdp2IzGRSZr2hhDrLMsV5YqldX3xjACX8uKicDz6l2/4MM2wJ8r4rMFyHoIEQ==",
+  "dgSpecHash": "NXs5t3eR+ZLNCY/7FlVabAdO8s1kGLVklJ/zdDn3Asl5jxEEAdlMD97ea/QqhgiFxaKu0NXK/7gaAFtPxPcjBQ==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Знакомство C#\\homework_4\\task_29\\task_29.csproj",
+  "projectFilePath": "D:\\Dev\\Знакомство C#\\homework_4\\task_29_FillArrayRandom\\task_29.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
